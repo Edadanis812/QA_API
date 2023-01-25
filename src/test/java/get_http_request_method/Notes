@@ -1,0 +1,8 @@
+· Verification, “Are you building it right?” seeks an answer to the question.
+So “Are you building it right?”.
+Validation is “Are you building the right thing?” seeks an answer to the question.
+So “Are you building the right thing?”.
+· Verification is done by software developers (developer), while Validation is done by test engineers.
+· Verification is an objective process and no subjective judgment is required to validate the software.
+ Validation, on the other hand, is a subjective process and includes subjective decisions about how well a
+ software works.
